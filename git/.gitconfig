@@ -1,0 +1,5 @@
+[core]
+	excludesfile = /Users/rodion/.gitignore
+[user]
+	name = Rodion Mescheryakov
+	email = msrodion@gmail.com
